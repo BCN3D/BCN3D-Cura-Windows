@@ -1,3 +1,5 @@
+*Legacy version of the BCN3D Cura. Get our latest version [here](https://github.com/BCN3D/Cura)*
+
 # BCN3D Cura for Windows
 This is our personalized version of Cura for Windows machines for printing with the brand new **BCN3D Sigma** and the known and loved **BCN3D+** and **BCN3DR**.
 
